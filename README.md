@@ -40,6 +40,7 @@ Installation To install synapse x script, follow these simple steps:
 
 
 
+
 Download the synapse x script(LoadV6.3)
 
 Extract the downloaded ZIP file to your desired location on your system.
